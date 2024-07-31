@@ -1,0 +1,23 @@
+.counter_box {
+  margin: 50px auto;
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
+.auth-btn {
+  display: flex;
+  margin: 0 auto;
+  gap: 20px;
+  justify-content: end;
+}
+.add-task {
+  display: flex;
+  gap: 20px;
+  width: 36%;
+}
+h3 {
+  margin: 20px 0;
+}
+table button {
+  margin: 10px;
+}
